@@ -4,7 +4,7 @@ import {PolymerElement}
 export class MyElement extends PolymerElement {
 
   static get template() {
-    return `<div>This is my [[name]] app.</div>`
+    return `<h1>This is my [[name]] app.</h1>`
   }
 
   constructor() {

@@ -15,7 +15,7 @@ export class MyLitElement extends LitElement {
   }
 
   _render({name}) {
-    return html`Hello ${name} from lit element!`;
+    return html`<h1>Hello ${name} from lit element!</h1>`;
   }  
 }
 
