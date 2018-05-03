@@ -1,0 +1,15 @@
+{
+  "name": "lit-polymer",
+  "flat": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kalaspuffar/lit-polymer.git",
+  "author": "Daniel Persson <mailto.woden@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/lit-element": "^0.4.0",
+    "@polymer/polymer": "^3.0.0-pre.13",
+    "@webcomponents/webcomponentsjs": "^1.2.0",
+    "lit-html": "^0.9.0"
+  }
+}
